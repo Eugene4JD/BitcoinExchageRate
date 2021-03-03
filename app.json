@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Bitcoin exchange rate",
+    "githubUrl": "https://github.com/Eugene4JD/BitcoinExchageRate"
   }
 }
